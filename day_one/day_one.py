@@ -4,7 +4,7 @@ list_two = []
 
 path = "day_one.txt"
 
-def read_file()
+
 # Open the day_one text file
 try:
     file = open(path)
